@@ -16,7 +16,6 @@ Built using Python, OpenCV, and MediaPipe.
 Clone this repository:
 
 ```bash
-git clone https://github.com/claramiadevira/foto-kita-blur.git
 cd peace-blur-detector
 ```
 
